@@ -1,0 +1,5 @@
+languageCode = 'en'
+languageDirection = 'ltr'
+languageName = 'English'
+title = 'Silicon Guilleries'
+weight = 10

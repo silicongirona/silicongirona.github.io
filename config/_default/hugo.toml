@@ -1,0 +1,20 @@
+baseURL = "https://silicongirona.club"
+copyright = "Powered by Hugo & Lynx, content licensed under Createive Commons Attribution-ShareAlike 4.0 International license"
+title = "Silicon Girona"
+
+# Content
+buildrafts = false
+enableEmoji = true
+
+# Languages
+defaultContentLanguage = "ca"
+defaultContentLanguageInSubdir = false
+
+[params.author]
+name = "Silicon Girona"
+headline = "La Comunitat Techològica de Girona / The Girona Tech Community"
+image = "images/logo.png"
+
+links = [
+  { discord = "https://discord.gg/Dm5yRYTM8J" }
+]

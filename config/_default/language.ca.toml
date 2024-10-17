@@ -1,0 +1,5 @@
+languageCode = 'ca'
+languageDirection = 'ltr'
+languageName = 'Català'
+title = 'Silicon Guilleries'
+weight = 1
