@@ -12,7 +12,7 @@ defaultContentLanguageInSubdir = false
 
 [params.author]
 name = "Silicon Girona"
-headline = "La Comunitat Techològica de Girona / The Girona Tech Community"
+headline = "La Comunitat Tecnològica de Girona / The Girona Tech Community"
 image = "images/logo.png"
 
 links = [
