@@ -16,6 +16,6 @@ headline = "La Comunitat Tecnològica de Girona / The Girona Tech Community"
 image = "images/logo.png"
 
 links = [
-  # { discord = "https://discord.gg/Dm5yRYTM8J" },
-  { telegram = "https://t.me/+MRouEqHkObA3NmEy" }
+  { telegram = "https://t.me/silicongirona" },
+  { discord = "https://discord.gg/BrUBtgrJdf" },
 ]
